@@ -1,8 +1,5 @@
 package br.com.cepsearch.classes;
 
-import static java.lang.Integer.getInteger;
-import static java.lang.Integer.valueOf;
-
 public class Cep {
     private int cep;
     private String logradouro;
@@ -22,7 +19,7 @@ public class Cep {
     }
 
     public void showCepDetails (){
-        System.out.println("A Cidade com o CEP " + cep + " é " + localidade + ".");
+        System.out.println("\n" + "A Cidade com o CEP " + cep + " é " + localidade + ".");
         System.out.println("O Bairro é " + bairro + ", com o Logradouro: " + logradouro + ".");
         if (complemento.equals("")){
             System.out.println("Esse CEP não possúi complemento!");

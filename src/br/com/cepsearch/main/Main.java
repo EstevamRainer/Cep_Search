@@ -24,7 +24,7 @@ public class Main {
 
         while (!cep.equalsIgnoreCase("sair")) {
             try {
-                System.out.println("Digite o CEP Desejado:");
+                System.out.println("\n" + "Digite o CEP Desejado:");
                 System.out.println("(Caso deseje fechar o programa, digite Sair)");
                 cep = scanner.next().replace("-", "");
                 if (cep.equalsIgnoreCase("sair")) {
@@ -37,13 +37,15 @@ public class Main {
                 choosedCep.showCepDetails();
                 cepList.add(choosedCep);
             } catch (JsonSyntaxException exception) {
-                System.out.println("Por favor, digite um CEP Válido!!");
+                System.out.println("\n" + "Por favor, digite um CEP Válido!!");
+            } catch (NullPointerException exception){
+                System.out.println("\n" + "CEP inválido");
             }
         }
         FileWriter writer = new FileWriter("DocsExit/Cep.json");
         writer.write(gson.toJson(cepList));
         writer.close();
-        System.out.println("Obrigado por usar o CepSearch!!!");
+        System.out.println("\n" + "Obrigado por usar o CepSearch!!!");
 
     }
 }
