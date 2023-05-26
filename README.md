@@ -56,7 +56,14 @@ Vá para a pasta do Cep Search e selecione o GSON.jar e dê apply.
 
 4- Após isso dê start e o programa irá executar normalmente
 
-<h2>Para qualquer dúvida, entre em contato comigo!</h2>
+<div align=center>
+  
+<h2>Se tiver alguma dúvida, entre em contato comigo!</h2> 
+  
+  <a href = "mailto:estevamrainerdev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/estevam-lopes-258226261" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <a href="https://instagram.com/estevam_rainer/" target="_blank">
+  
+</div>
 
 
 
