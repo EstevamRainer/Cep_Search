@@ -10,7 +10,7 @@ Cep Search é um projeto feito em ```Java``` consumindo a API do ```ViaCep```. A
 
 ![image](https://github.com/EstevamRainer/Cep_Search/assets/122125357/95dd6aec-3895-4fc5-b321-7308eb8bbb46)
 
-<h2>🧩 O Porjeto está </h2>
+<h2>🧩 O Projeto está </h2>
 <div align='center'>
 
 <img src="https://img.shields.io/badge/-Finalizado-green" heigh="100" width="100"> 
@@ -34,7 +34,7 @@ O *Cep Search* foi criado com o objetivo de procurar informações sobre os CEP'
 - Http Client/Request/Response
 - Classe Record
 
-<h2>🛠 Como executar o projeto 🛠</h2>
+<h2>🛠 Como Executar o Projeto 🛠</h2>
 
 Para executar o projeto é nescessário seguir alguns passos que serão listados a seguir:
 
@@ -56,12 +56,14 @@ Vá para a pasta do Cep Search e selecione o GSON.jar e dê apply.
 
 4- Após isso dê start e o programa irá executar normalmente
 
-<h2> Créditos </h2>
-
-<p>
-Projeto feito por Estevam Rainer
-</p>
-
+<div align=center>
+  
+<h2>Se tiver alguma dúvida, entre em contato comigo!</h2> 
+  
+  <a href = "mailto:estevamrainerdev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/estevam-lopes-258226261" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <a href="https://instagram.com/estevam_rainer/" target="_blank">
+  
+</div>
 
 
 
